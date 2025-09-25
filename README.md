@@ -1,6 +1,6 @@
 # Task 4: Dashboard Design (Tableau)-Elevate Labs
 
-# Dashboard using tableau
+# Sales Dashboard using tableau
 
 ## Objective
 Interactive sales dashboard to monitor Sales, Profit and Growth.
