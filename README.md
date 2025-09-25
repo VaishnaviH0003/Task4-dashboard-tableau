@@ -1,4 +1,4 @@
-# Task 4: Dashboard Design (Tableau)-Elevate Labs
+# Task 3: Dashboard Design (Tableau)-Elevate Labs
 
 # Sales Dashboard using tableau
 
